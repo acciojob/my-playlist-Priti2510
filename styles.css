@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.header {
+	text-align:center;
+}
+
+.list {
+	list-style-type: none;
+	
+}
+
+.sname {
+	text-decoration-line: none;
+}
+
+.player_one {
+	background-color: rgb(255, 255, 255); 
+	padding:20px; 
+	border-radius: 5px;
+	
+}
+
+.player_two {
+	background-color: rgb(255, 255, 255); 
+	padding: 20px; 
+	border-radius: 5px;
+}
