@@ -1,4 +1,12 @@
 /*  your css code here. If applicable */
+body {
+	background-color: rgb(204, 204, 204);
+}
+
+.d2 {
+	border-radius: 20px black;
+	background-color: lightgray;
+}
 .header {
 	text-align:center;
 }
